@@ -2,9 +2,9 @@ Brings daily (1), weekly (7) and monthly (16) weather forecasts by **city name.*
 
 > endpoint `/api/v1/weather/{city}/{days}`
 
-Weather API : [Open-Meteo](open-meteo.com)
+Weather API : [Open-Meteo](https://open-meteo.com)
 
-Geographic Coordinates API : [Open-Meteo](open-meteo.com)
+Geographic Coordinates API : [Open-Meteo](https://open-meteo.com)
 
 _*Weather API needs geographic coordinates._
 
